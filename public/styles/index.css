@@ -1,0 +1,25 @@
+#main{
+    position:relative; width:1000px; margin:0 auto;
+}
+#header{
+    height:100px; display:table;
+}
+#headerWrapper{
+    display:table-cell; text-align:center; vertical-align:middle;
+}
+#nav{
+    border-top:1px skyblue solid;
+    border-bottom:1px skyblue solid;
+}
+#carousel{
+    margin:10px;
+}
+#login-form{
+    
+    margin : 10px auto;
+    width:500px;
+}
+#board{
+    margin : 10px auto;
+    width : 800px;
+}
